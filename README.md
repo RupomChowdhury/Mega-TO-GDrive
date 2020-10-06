@@ -1,4 +1,4 @@
-# Mega-TO-GDrive <a><img src="https://badgen.net/github/status/micromatch/micromatch/4.0.1" /></a><a><img src="https://badgen.net/github/checks/tunnckoCore/opensource" /></a><a><img src="https://badgen.net/github/dependabot/ubuntu/yaru" /></a><a><img src="https://badgen.net/badge/code%20style/standard/f2a" /></a>
+# Mega-TO-GDrive <a><img src="https://badgen.net/github/status/micromatch/micromatch/4.0.1" /></a><a><img src="https://badgen.net/github/checks/tunnckoCore/opensource" /></a><a><img src="https://badgen.net/github/dependabot/ubuntu/yaru" /></a><a><img src="https://badgen.net/badge/code%20style/standard/f2a" /></a><a><img src="https://badgen.net/gitlab/license/gitlab-org/omnibus-gitlab" /></a>
 This is a Google Colab notebook to transfer files from Mega to Google Drive.
 <br><br><b>START:</b>
 <br>
