@@ -1,4 +1,4 @@
-# Mega-TO-GDrive
+# Mega-TO-GDrive <a href=""><img src="https://badgen.net/github/checks/tunnckoCore/opensource" /></a>
 This is a Google Colab notebook to transfer files from Mega to Google Drive.
 <br><br><b>Usage:</b>
 <br>
